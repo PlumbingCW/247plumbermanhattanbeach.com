@@ -331,3 +331,4 @@ main p,main li{overflow-wrap:anywhere}
 .vansec{padding-bottom:0}
 .vanfig{margin:0;border-radius:var(--r);overflow:hidden;box-shadow:var(--sh);max-width:980px;margin-inline:auto}
 .vanfig img{display:block;width:100%;height:auto}
+.backlink{font-size:.98rem;color:var(--mut)}
